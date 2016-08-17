@@ -1,6 +1,6 @@
 require 'formula'
 
-HOMEBREW_MYQUERYDUMP_VERSION = '1.0.0'
+HOMEBREW_MYQUERYDUMP_VERSION = '1.0.1'
 class Myquerydump < Formula
   homepage 'https://github.com/showwin/myquerydump'
   url 'https://github.com/showwin/myquerydump.git', tag: "v#{HOMEBREW_MYQUERYDUMP_VERSION}"
